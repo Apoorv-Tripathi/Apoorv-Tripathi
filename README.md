@@ -339,9 +339,8 @@ C++ / DSA       ███████████████░░░░░░�
 
 <br/>
 
-<!-- 🔧 Replace all links with your actual profiles -->
 <a href="https://github.com/Apoorv-Tripathi" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%40__Apoorv--Tripathi__-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/GitHub-%40Apoorv-Tripath-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/apoorvtripathi1/">
@@ -371,7 +370,7 @@ C++ / DSA       ███████████████░░░░░░�
 
 <div align="center">
 
-<sub>⚡ Crafted with passion by <a href="https://github.com/__Apoorv-Tripathi__">Apoorv Tripathi</a> · 2025 · Star ⭐ if you like it!</sub>
+<sub>⚡ Crafted with passion by <a href="https://github.com/Apoorv-Tripathi">Apoorv Tripathi</a> · 2025 · Star ⭐ if you like it!</sub>
 
 </div>
 
