@@ -319,8 +319,7 @@ C++ / DSA       ███████████████░░░░░░�
 
 <br/>
 
-<!-- 🔧 Replace with your actual CP handles -->
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=FFA116)](https://leetcode.com/u/__Apoorv-Tripathi__)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=FFA116)](https://leetcode.com/u/ApoorvTripathi89/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/__Apoorv-Tripathi__)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/__Apoorv-Tripathi__)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/__Apoorv-Tripathi__)
