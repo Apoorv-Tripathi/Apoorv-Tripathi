@@ -359,7 +359,11 @@ C++ / DSA       ███████████████░░░░░░�
 
 <!-- SNAKE ANIMATION — Uncomment after enabling GitHub Actions -->
 <!-- 🔧 Setup: https://github.com/Platane/snk#github-action              -->
-<img src="https://raw.githubusercontent.com/Apoorv-Tripathi/Apoorv-Tripathi/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Apoorv-Tripathi/Apoorv-Tripathi/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Apoorv-Tripathi/Apoorv-Tripathi/output/github-snake.svg">
+  <img alt="github snake" src="https://raw.githubusercontent.com/Apoorv-Tripathi/Apoorv-Tripathi/output/github-snake.svg">
+</picture>
 
 </div>
 
