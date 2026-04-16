@@ -255,7 +255,7 @@ const apoorv = {
 <br/><br/>
 
 <a href="https://github.com/Apoorv-Tripathi">
-  <img src="https://github-profile-trophy.vercel.app/?username=Apoorv-Tripathi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="96%" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Apoorv-Tripathi&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 </a>
 
 </div>
