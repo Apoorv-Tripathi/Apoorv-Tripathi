@@ -7,7 +7,7 @@
 <!--          ██║  ██║ ██║     ╚██████╔╝╚██████╔╝██║  ██║ ╚████╔╝            -->
 <!--          ╚═╝  ╚═╝ ╚═╝      ╚═════╝  ╚═════╝ ╚═╝  ╚═╝  ╚═══╝            -->
 <!--                                                                          -->
-<!--        GITHUB: __Apoorv-Tripathi__     LAST UPDATED: 2025               -->
+<!--        GITHUB: Apoorv-Tripathi    LAST UPDATED: 2025               -->
 <!-- ██████████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<a href="https://github.com/__Apoorv-Tripathi__">
+<a href="https://github.com/Apoorv-Tripathi">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Apoorv%20Tripathi&fontSize=72&fontColor=00d9ff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20DSA%20%7C%20Open%20Source&descAlignY=78&descSize=18&descColor=88b4ce" width="100%"/>
 </a>
 
@@ -39,8 +39,8 @@
 <div align="center">
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=__Apoorv-Tripathi__&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/__Apoorv-Tripathi__)
-[![GitHub Followers](https://img.shields.io/github/followers/__Apoorv-Tripathi__?style=for-the-badge&color=00d9ff&labelColor=0d1117&logo=github&label=FOLLOWERS)](https://github.com/__Apoorv-Tripathi__?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=Apoorv-Tripathi&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/Apoorv-Tripathi)
+[![GitHub Followers](https://img.shields.io/github/followers/Apoorv-Tripathi?style=for-the-badge&color=00d9ff&labelColor=0d1117&logo=github&label=FOLLOWERS)](https://github.com/Apoorv-Tripathi?tab=followers)
 [![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-00ff88?style=for-the-badge&labelColor=0d1117)](https://github.com/__Apoorv-Tripathi__)
 
 <br/><br/>
@@ -103,7 +103,7 @@ const apoorv = {
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=__Apoorv-Tripathi__&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=003d5c&hide_border=true&radius=8)](https://github.com/__Apoorv-Tripathi__)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Apoorv-Tripathi&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=003d5c&hide_border=true&radius=8)](https://github.com/Apoorv-Tripathi)
 
 </td>
 </tr>
@@ -167,7 +167,7 @@ const apoorv = {
 <table width="100%">
 <tr>
 <td align="center" width="8%">🌐</td>
-<td width="28%"><b><a href="https://github.com/__Apoorv-Tripathi__/portfolio">Portfolio Website</a></b></td>
+<td width="28%"><b><a href="https://apoorvs-personal-portfolio.vercel.app">Portfolio Website</a></b></td>
 <td width="32%">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
@@ -180,7 +180,7 @@ const apoorv = {
 <table width="100%">
 <tr>
 <td align="center" width="8%">🎓</td>
-<td width="28%"><b><a href="https://github.com/__Apoorv-Tripathi__/unified-education">Unified Education Interface</a></b><br/><sub>🏆 SIH 2025 Finalist</sub></td>
+<td width="28%"><b><a href="https://unified-education-frontend-part1.vercel.app/login">Unified Education Interface</a></b><br/><sub>🏆 SIH 2025 Finalist</sub></td>
 <td width="32%">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -193,7 +193,7 @@ const apoorv = {
 <table width="100%">
 <tr>
 <td align="center" width="8%">📈</td>
-<td width="28%"><b><a href="https://github.com/__Apoorv-Tripathi__/zerodha-clone">Zerodha Clone</a></b></td>
+<td width="28%"><b><a href="https://github.com/Apoorv-Tripathi/ZerodhaClone">Zerodha Clone</a></b></td>
 <td width="32%">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
@@ -207,7 +207,7 @@ const apoorv = {
 <table width="100%">
 <tr>
 <td align="center" width="8%">🏢</td>
-<td width="28%"><b><a href="https://github.com/__Apoorv-Tripathi__/inotec">INOTEC Platform</a></b></td>
+<td width="28%"><b><a href="https://inotec.co.in">INOTEC Platform</a></b></td>
 <td width="32%">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -232,30 +232,30 @@ const apoorv = {
 <br/>
 
 <p>
-<a href="https://github.com/__Apoorv-Tripathi__">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=__Apoorv-Tripathi__&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github"/>
+<a href="https://github.com/Apoorv-Tripathi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Apoorv-Tripathi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github"/>
 </a>
-<a href="https://github.com/__Apoorv-Tripathi__">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=__Apoorv-Tripathi__&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&layout=compact&langs_count=8&card_width=340"/>
+<a href="https://github.com/Apoorv-Tripathi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorv-Tripathi&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&layout=compact&langs_count=8&card_width=340"/>
 </a>
 </p>
 
 <br/>
 
-<a href="https://github.com/__Apoorv-Tripathi__">
-  <img src="https://streak-stats.demolab.com?user=__Apoorv-Tripathi__&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=FFFFFF&sideNums=00d9ff&currStreakLabel=00d9ff&sideLabels=888888&dates=888888&border_radius=8" alt="GitHub Streak"/>
+<a href="https://github.com/Apoorv-Tripathi">
+  <img src="https://streak-stats.demolab.com?user=Apoorv-Tripathi&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=FFFFFF&sideNums=00d9ff&currStreakLabel=00d9ff&sideLabels=888888&dates=888888&border_radius=8" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/__Apoorv-Tripathi__">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=__Apoorv-Tripathi__&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=003d5c&hide_border=true&custom_title=Apoorv's+Contribution+Graph&radius=8" width="96%" alt="Contribution Graph"/>
+<a href="https://github.com/Apoorv-Tripathi">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Apoorv-Tripathi&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=003d5c&hide_border=true&custom_title=Apoorv's+Contribution+Graph&radius=8" width="96%" alt="Contribution Graph"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/__Apoorv-Tripathi__">
-  <img src="https://github-profile-trophy.vercel.app/?username=__Apoorv-Tripathi__&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="96%" alt="GitHub Trophies"/>
+<a href="https://github.com/Apoorv-Tripathi">
+  <img src="https://github-profile-trophy.vercel.app/?username=Apoorv-Tripathi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="96%" alt="GitHub Trophies"/>
 </a>
 
 </div>
@@ -340,17 +340,15 @@ C++ / DSA       ███████████████░░░░░░�
 <br/>
 
 <!-- 🔧 Replace all links with your actual profiles -->
-<a href="https://github.com/__Apoorv-Tripathi__" target="_blank">
+<a href="https://github.com/Apoorv-Tripathi" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-%40__Apoorv--Tripathi__-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/apoorv-tripathi" target="_blank">
-  <!-- 🔧 Replace "apoorv-tripathi" with your actual LinkedIn handle -->
+<a href="https://www.linkedin.com/in/apoorvtripathi1/">
   <img src="https://img.shields.io/badge/LinkedIn-Apoorv_Tripathi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;
-<a href="mailto:your.email@gmail.com">
-  <!-- 🔧 Replace with your actual email address -->
+<a href="mailto:apoorvtripathi895@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
 </a>
 
