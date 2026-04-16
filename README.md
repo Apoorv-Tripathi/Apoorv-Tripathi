@@ -340,7 +340,7 @@ C++ / DSA       ███████████████░░░░░░�
 <br/>
 
 <a href="https://github.com/Apoorv-Tripathi" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%40Apoorv-Tripath-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/GitHub-%40__Apoorv--Tripath__-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/apoorvtripathi1/">
