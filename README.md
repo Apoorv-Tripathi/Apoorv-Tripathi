@@ -7,7 +7,7 @@
 <!--          ██║  ██║ ██║     ╚██████╔╝╚██████╔╝██║  ██║ ╚████╔╝            -->
 <!--          ╚═╝  ╚═╝ ╚═╝      ╚═════╝  ╚═════╝ ╚═╝  ╚═╝  ╚═══╝            -->
 <!--                                                                          -->
-<!--        GITHUB: Apoorv-Tripathi    LAST UPDATED: 2025               -->
+<!--        GITHUB: Apoorv-Tripathi    LAST UPDATED: 2026               -->
 <!-- ██████████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
@@ -359,7 +359,7 @@ C++ / DSA       ███████████████░░░░░░�
 
 <!-- SNAKE ANIMATION — Uncomment after enabling GitHub Actions -->
 <!-- 🔧 Setup: https://github.com/Platane/snk#github-action              -->
-<!-- <img src="https://raw.githubusercontent.com/__Apoorv-Tripathi__/__Apoorv-Tripathi__/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/> -->
+<img src="https://raw.githubusercontent.com/Apoorv-Tripathi/Apoorv-Tripathi/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
 
 </div>
 
