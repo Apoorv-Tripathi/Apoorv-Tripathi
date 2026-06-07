@@ -342,7 +342,7 @@ A fully responsive developer portfolio showcasing projects, skills, and experien
 </td>
 <td width="60%" valign="top">
 
-### 🎓 &nbsp;[Unified Education Interface](https://unified-education-frontend-part1.vercel.app/login) &nbsp; 🏆 *SIH 2025 Finalist*
+### 🎓 &nbsp;[Unified Education Interface](https://unified-edu-platform-o47m.vercel.app) &nbsp; 🏆 *SIH 2025 Finalist*
 > *Centralized data platform for Indian education*
 
 A government-level full-stack platform built for **Smart India Hackathon 2025**. Integrates Aadhar, APAR & AISHE data into one dashboard. Responsible for **70% of development** as Team Lead coordinating a 6-member team.
