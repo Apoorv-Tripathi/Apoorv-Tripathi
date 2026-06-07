@@ -130,13 +130,13 @@ const apoorv: Developer = {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Apoorv-Tripathi&show_icons=true&theme=dark&hide_border=true&bg_color=050000&title_color=FF6A00&icon_color=FFB347&text_color=FFDDAA&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,prs_merged" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Apoorv-Tripathi&show_icons=true&hide_border=true&bg_color=050000&title_color=FF6A00&icon_color=FFB347&text_color=FFDDAA&count_private=true&include_all_commits=true&theme=tokyonight" height="185"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorv-Tripathi&hide_border=true&bg_color=050000&title_color=FF6A00&text_color=FFDDAA&layout=compact&langs_count=8&card_width=355&theme=dark" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorv-Tripathi&hide_border=true&bg_color=050000&title_color=FF6A00&text_color=FFDDAA&layout=compact&langs_count=8&theme=tokyonight" height="185"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Apoorv-Tripathi&theme=dark&hide_border=true&background=050000&stroke=FF6A00&ring=c0390b&fire=FFB347&currStreakNum=FF6A00&sideNums=FFB347&currStreakLabel=FF6A00&sideLabels=FFDDAA&dates=996633&border_radius=8&mode=weekly" width="680"/>
+<img src="https://streak-stats.demolab.com?user=Apoorv-Tripathi&hide_border=true&background=050000&stroke=FF6A00&ring=c0390b&fire=FFB347&currStreakNum=FF6A00&sideNums=FFB347&currStreakLabel=FF6A00&sideLabels=FFDDAA&dates=996633&border_radius=8" width="680"/>
 
 <br/><br/>
 
@@ -609,7 +609,7 @@ A professional marketing & product-visibility website delivered for a live clien
 
 <br/>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Apoorv-Tripathi&theme=monokai&no-frame=true&no-bg=true&margin-w=10&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/Apoorv-Tripathi)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Apoorv-Tripathi&theme=monokai&no-frame=true&no-bg=true&margin-w=10&column=4)](https://github.com/Apoorv-Tripathi)
 
 </div>
 
