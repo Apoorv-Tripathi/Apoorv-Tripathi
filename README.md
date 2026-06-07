@@ -278,7 +278,7 @@ const apoorv: Developer = {
 <tr>
 <td valign="top">
 
-<h3>🔍 &nbsp;SpendLens &nbsp;<img src="https://img.shields.io/badge/NEW-ff6a00?style=flat-square"/> &nbsp;<img src="https://img.shields.io/badge/Credex%20Internship%20Assignment-c0390b?style=flat-square"/></h3>
+<h3>🔍 &nbsp;<a href="https://spend-lense-ai-phi.vercel.app">SpendLens</a> &nbsp;<img src="https://img.shields.io/badge/NEW-ff6a00?style=flat-square"/> &nbsp;</h3>
 
 > *AI Spend Audit SaaS — Production-quality frontend*
 
