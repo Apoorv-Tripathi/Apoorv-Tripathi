@@ -596,9 +596,9 @@ A professional marketing & product-visibility website delivered for a live clien
 <br/>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-ApoorvTripathi89-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=120400)](https://leetcode.com/u/ApoorvTripathi89/)&nbsp;
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=120400)](https://codeforces.com/profile/__Apoorv-Tripathi__)&nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-D9896C?style=for-the-badge&logo=codechef&logoColor=white&labelColor=120400)](https://www.codechef.com/users/__Apoorv-Tripathi__)&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=120400)](https://www.hackerrank.com/__Apoorv-Tripathi__)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%5F%5FApoorv--Tripathi%5F%5F-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=120400)](https://codeforces.com/profile/__Apoorv-Tripathi__)&nbsp;
+[![CodeChef](https://img.shields.io/badge/CodeChef-%5F%5FApoorv--Tripathi%5F%5F-D9896C?style=for-the-badge&logo=codechef&logoColor=white&labelColor=120400)](https://www.codechef.com/users/__Apoorv-Tripathi__)&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-%5F%5FApoorv--Tripathi%5F%5F-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=120400)](https://www.hackerrank.com/__Apoorv-Tripathi__)
 
 </div>
 
@@ -621,7 +621,7 @@ A professional marketing & product-visibility website delivered for a live clien
 <br/>
 
 <!-- ✅ Trophies — column=7 shows all at once, monokai theme -->
-<img src="https://github-profile-trophy.vercel.app/?username=Apoorv-Tripathi&theme=monokai&no-frame=true&no-bg=true&margin-w=12&column=7" width="97%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Apoorv-Tripathi&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=4" width="97%"/>
 
 </div>
 
