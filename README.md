@@ -273,45 +273,70 @@ const apoorv: Developer = {
 
 <br/>
 
-<!-- Project 1 -->
-<table width="100%">
+<!-- ── PROJECT 1 : SpendLens ───────────────────────────────── -->
+<table width="100%" border="0" cellpadding="16">
 <tr>
-<td width="60%" valign="top">
+<td valign="top">
 
-### 🌐 &nbsp;[Personal Portfolio Website](https://apoorvs-personal-portfolio.vercel.app)
-> *My digital identity on the web*
+<h3>🔍 &nbsp;SpendLens &nbsp;<img src="https://img.shields.io/badge/NEW-ff6a00?style=flat-square"/> &nbsp;<img src="https://img.shields.io/badge/Credex%20Internship%20Assignment-c0390b?style=flat-square"/></h3>
 
-A fully responsive developer portfolio showcasing projects, skills, and experience. Features smooth animations, dynamic project filtering by tech stack, and an integrated contact form powered by EmailJS — all without a backend.
+> *AI Spend Audit SaaS — Production-quality frontend*
 
-**Key Features:**
-- ⚡ Dynamic project filter by technology
-- 📬 EmailJS contact form (zero backend)
-- 🎨 Smooth CSS animations & transitions
-- 📱 Mobile-first responsive design
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![EmailJS](https://img.shields.io/badge/EmailJS-c0390b?style=flat-square)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-&nbsp;&nbsp;
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-ff6a00?style=flat-square)](https://apoorvs-personal-portfolio.vercel.app)
+A sleek SaaS dashboard for auditing AI tool spending across engineering teams. Features a full multi-step audit form, real-time spend calculator, live sidebar with cost-per-seat breakdown, and beautiful landing page — all built without a backend using smart localStorage persistence.
 
 </td>
-<td width="40%" align="center" valign="middle">
+</tr>
+<tr>
+<td>
 
-```
-📁 portfolio/
-├── 🎨 src/
-│   ├── components/
-│   │   ├── Hero.jsx
-│   │   ├── Projects.jsx
-│   │   ├── Skills.jsx
-│   │   └── Contact.jsx
-│   ├── App.jsx
-│   └── index.js
-├── public/
-└── package.json
-```
+<table width="100%" border="0">
+<tr>
+<td width="50%" valign="top">
+
+**✦ Landing Page**
+- 🎯 Bold hero with floating animated tool badges
+- 📊 Social proof stats bar
+- 🪜 3-step "How It Works" explainer
+- 💬 Testimonials with avatar cards
+- 🔥 Conversion-focused CTA section
+
+**✦ Audit Form (`/audit`)**
+- ➕ Add / remove / duplicate AI tool entries
+- 🤖 8 tools — Cursor, Copilot, Claude, ChatGPT, Gemini, Windsurf, Anthropic API, OpenAI API
+- 💰 Per-tool: plan · spend · seats · auto cost-per-seat
+- 📦 localStorage auto-save with 500ms debounce
+- 📈 Live sidebar — total spend, per-employee cost, bar chart
+
+</td>
+<td width="50%" valign="top">
+
+**✦ Design System**
+- 🖋️ Fonts — Syne (headings) · DM Sans (body) · JetBrains Mono (numbers)
+- 🎨 Dark `#0A0A0F` bg + acid green `#C8F135` accent
+- ✨ Animations — fade-up · float · pulse-acid · shimmer
+
+**✦ Planned (Backend Phase)**
+- [ ] Express.js REST API
+- [ ] MongoDB + Mongoose models
+- [ ] JWT auth + team collaboration
+- [ ] PDF export & AI recommendations
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+<tr>
+<td>
+
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router_v6-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![Lucide](https://img.shields.io/badge/Lucide_Icons-FF6A00?style=flat-square)
+&nbsp;&nbsp;
+[![Source Code](https://img.shields.io/badge/📂%20Source%20Code-1a0500?style=flat-square&logo=github)](https://github.com/Apoorv-Tripathi)
 
 </td>
 </tr>
@@ -319,39 +344,36 @@ A fully responsive developer portfolio showcasing projects, skills, and experien
 
 <br/>
 
-<!-- Project 2 -->
-<table width="100%">
+<!-- ── PROJECT 2 : Unified Education Interface ─────────────── -->
+<table width="100%" border="0" cellpadding="16">
 <tr>
-<td width="40%" align="center" valign="middle">
+<td valign="top">
 
-```
-📁 unified-education/
-├── 🖥️ frontend/
-│   ├── src/
-│   │   ├── Dashboard.jsx
-│   │   ├── Analytics.jsx
-│   │   └── Reports.jsx
-│   └── package.json
-├── ⚙️ backend/
-│   ├── routes/
-│   ├── models/
-│   └── server.js
-└── README.md
-```
+<h3>🎓 &nbsp;<a href="https://unified-education-frontend-part1.vercel.app/login">Unified Education Interface</a> &nbsp; 🏆 <em>SIH 2025 Finalist</em></h3>
+
+> *Centralized government data platform for Indian education*
+
+A full-stack platform built for **Smart India Hackathon 2025**, integrating Aadhar, APAR & AISHE data into a single unified dashboard. Led a 6-member team as **Team Lead** and personally owned **70% of the development**.
 
 </td>
-<td width="60%" valign="top">
+</tr>
+<tr>
+<td>
 
-### 🎓 &nbsp;[Unified Education Interface](https://unified-edu-platform-o47m.vercel.app) &nbsp; 🏆 *SIH 2025 Finalist*
-> *Centralized data platform for Indian education*
+**✦ Key Features**
 
-A government-level full-stack platform built for **Smart India Hackathon 2025**. Integrates Aadhar, APAR & AISHE data into one dashboard. Responsible for **70% of development** as Team Lead coordinating a 6-member team.
+| Feature | Details |
+|:---|:---|
+| 🏛️ Data Integration | Unified Aadhar · APAR · AISHE in one place |
+| 📊 Analytics | Real-time dashboard with charts & reports |
+| 👥 Multi-role Access | Admin · Teacher · Student portals |
+| 🔐 Auth | Secure JWT-based authentication |
+| 🏆 Impact | Government-level scale · SIH 2025 Finalist |
 
-**Key Features:**
-- 🏛️ Unified Aadhar / APAR / AISHE data
-- 📊 Real-time analytics dashboard
-- 👥 Multi-role access (Admin / Teacher / Student)
-- 🔐 Secure JWT authentication
+</td>
+</tr>
+<tr>
+<td>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -366,49 +388,42 @@ A government-level full-stack platform built for **Smart India Hackathon 2025**.
 
 <br/>
 
-<!-- Project 3 -->
-<table width="100%">
+<!-- ── PROJECT 3 : Portfolio ───────────────────────────────── -->
+<table width="100%" border="0" cellpadding="16">
 <tr>
-<td width="60%" valign="top">
+<td valign="top">
 
-### 📈 &nbsp;[Zerodha Clone](https://github.com/Apoorv-Tripathi/ZerodhaClone)
-> *Full-featured stock trading platform — MERN*
+<h3>🌐 &nbsp;<a href="https://apoorvs-personal-portfolio.vercel.app">Personal Portfolio Website</a></h3>
 
-A pixel-perfect clone of India's largest stock broker Zerodha. Built entirely on the MERN stack with real-time order simulation, portfolio management, holdings tracker, and complete REST API backend.
+> *My digital identity on the web*
 
-**Key Features:**
-- 📊 Real-time order placement (Buy / Sell)
-- 💼 Portfolio & holdings tracker
-- 📉 Interactive charts & positions
-- 🔌 Full REST API with Express.js
-- 🔐 User auth with sessions
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404040?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-&nbsp;&nbsp;
-[![GitHub Repo](https://img.shields.io/badge/📂%20Source%20Code-1a0500?style=flat-square&logo=github)](https://github.com/Apoorv-Tripathi/ZerodhaClone)
+A fully responsive developer portfolio showcasing projects, skills, and experience. Features smooth scroll animations, dynamic project filtering by tech stack, and an EmailJS contact form — zero backend needed.
 
 </td>
-<td width="40%" align="center" valign="middle">
+</tr>
+<tr>
+<td>
 
-```
-📁 zerodha-clone/
-├── 🖥️ frontend/
-│   ├── src/
-│   │   ├── landing/
-│   │   ├── dashboard/
-│   │   │   ├── Orders.jsx
-│   │   │   ├── Holdings.jsx
-│   │   │   └── Positions.jsx
-│   │   └── App.jsx
-├── ⚙️ backend/
-│   ├── model/
-│   ├── routes/
-│   └── index.js
-└── package.json
-```
+**✦ Key Features**
+
+| Feature | Details |
+|:---|:---|
+| 🔍 Project Filter | Dynamically filter projects by tech stack |
+| 📬 Contact Form | EmailJS integration — no backend required |
+| 🎨 Animations | Smooth CSS transitions & scroll effects |
+| 📱 Responsive | Mobile-first design, works on all screens |
+
+</td>
+</tr>
+<tr>
+<td>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![EmailJS](https://img.shields.io/badge/EmailJS-c0390b?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+&nbsp;&nbsp;
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-ff6a00?style=flat-square)](https://apoorvs-personal-portfolio.vercel.app)
 
 </td>
 </tr>
@@ -416,37 +431,35 @@ A pixel-perfect clone of India's largest stock broker Zerodha. Built entirely on
 
 <br/>
 
-<!-- Project 4 -->
-<table width="100%">
+<!-- ── PROJECT 4 : INOTEC ─────────────────────────────────── -->
+<table width="100%" border="0" cellpadding="16">
 <tr>
-<td width="40%" align="center" valign="middle">
+<td valign="top">
 
-```
-📁 inotec/
-├── 🎨 assets/
-│   ├── images/
-│   └── icons/
-├── 📄 index.html
-├── 🎨 styles/
-│   ├── main.css
-│   └── responsive.css
-└── ⚡ scripts/
-    └── main.js
-```
+<h3>🏢 &nbsp;<a href="https://inotec.co.in">INOTEC Platform</a></h3>
 
-</td>
-<td width="60%" valign="top">
-
-### 🏢 &nbsp;[INOTEC Platform](https://inotec.co.in)
 > *Live client product-visibility website*
 
-A professional marketing & product-visibility website delivered for a live client. Focused on pixel-perfect UI implementation, cross-browser compatibility, and mobile responsiveness — built from Figma designs.
+A professional marketing & product-visibility website delivered for a live client. Translated Figma designs into pixel-perfect, fully responsive code with cross-browser support and SEO optimization.
 
-**Key Features:**
-- 🎨 Pixel-perfect Figma → Code
-- 📱 Fully responsive across all devices
-- ⚡ Optimized for performance & SEO
-- 🌐 Live production deployment
+</td>
+</tr>
+<tr>
+<td>
+
+**✦ Key Features**
+
+| Feature | Details |
+|:---|:---|
+| 🎨 Figma → Code | Pixel-perfect implementation from design files |
+| 📱 Responsive | Tested across all screen sizes & browsers |
+| ⚡ Performance | Optimized assets, fast load times |
+| 🌐 Live | Deployed and serving real users at inotec.co.in |
+
+</td>
+</tr>
+<tr>
+<td>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -495,7 +508,7 @@ A professional marketing & product-visibility website delivered for a live clien
       │
 2025  ├─────────────────────────────────────────────────────────────────
       │  🏆  Smart India Hackathon 2025 FINALIST — Led team of 6
-      │  📈  Shipped Zerodha Clone (full MERN trading platform)
+      │  🔍  Built SpendLens — AI Spend Audit SaaS (Credex internship)
       │  🌐  Launched personal portfolio — live on Vercel
       │  🧠  Diving deep into DSA, System Design & CP
       │
