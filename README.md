@@ -128,19 +128,30 @@ const apoorv: Developer = {
 
 ## 🔥 &nbsp;GitHub Statistics
 
+> **Note:** Stats cards use GitHub's public API via [github-readme-stats](https://github.com/anuraghazra/github-readme-stats). If they show `?`, **[deploy your own free instance in 2 minutes →](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own)** and replace the URL with your instance.
+
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Apoorv-Tripathi&show_icons=true&hide_border=true&bg_color=050000&title_color=FF6A00&icon_color=FFB347&text_color=FFDDAA&count_private=true&include_all_commits=true&theme=tokyonight" height="185"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorv-Tripathi&hide_border=true&bg_color=050000&title_color=FF6A00&text_color=FFDDAA&layout=compact&langs_count=8&theme=tokyonight" height="185"/>
+<!-- ✅ Profile Summary Cards — vn7n24fzkq.vercel.app is a reliable public instance -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apoorv-Tripathi&theme=monokai" width="97%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Apoorv-Tripathi&theme=monokai" width="32%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Apoorv-Tripathi&theme=monokai" width="32%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Apoorv-Tripathi&theme=monokai" width="32%"/>
 
 <br/><br/>
 
+<!-- ✅ Streak stats — demolab is reliable -->
 <img src="https://streak-stats.demolab.com?user=Apoorv-Tripathi&hide_border=true&background=050000&stroke=FF6A00&ring=c0390b&fire=FFB347&currStreakNum=FF6A00&sideNums=FFB347&currStreakLabel=FF6A00&sideLabels=FFDDAA&dates=996633&border_radius=8" width="680"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apoorv-Tripathi&bg_color=050000&color=FF6A00&line=c0390b&point=FFB347&area=true&area_color=3d0000&hide_border=true&custom_title=🔥+Apoorv%27s+Contribution+Graph&radius=6&font_color=FFB347" width="97%"/>
+<!-- ✅ Activity graph — vercel hosted, generally stable -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apoorv-Tripathi&bg_color=050000&color=FF6A00&line=c0390b&point=FFB347&area=true&area_color=3d0000&hide_border=true&custom_title=Apoorv%27s+Contribution+Graph&radius=6" width="97%"/>
 
 </div>
 
@@ -609,7 +620,8 @@ A professional marketing & product-visibility website delivered for a live clien
 
 <br/>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Apoorv-Tripathi&theme=monokai&no-frame=true&no-bg=true&margin-w=10&column=4)](https://github.com/Apoorv-Tripathi)
+<!-- ✅ Trophies — column=7 shows all at once, monokai theme -->
+<img src="https://github-profile-trophy.vercel.app/?username=Apoorv-Tripathi&theme=monokai&no-frame=true&no-bg=true&margin-w=12&column=7" width="97%"/>
 
 </div>
 
